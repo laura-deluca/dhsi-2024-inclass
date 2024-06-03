@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 41,
+    "height" : 62
+  }, {
+    "width" : 81,
+    "height" : 124
+  }, {
+    "width" : 161,
+    "height" : 248
+  }, {
+    "width" : 321,
+    "height" : 496
+  }, {
+    "width" : 642,
+    "height" : 992
+  }, {
+    "width" : 1283,
+    "height" : 1984
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1283,
+  "@id" : "https://laura-deluca.github.io/dhsi-2024-inclass/images/Image2",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1984
+}
