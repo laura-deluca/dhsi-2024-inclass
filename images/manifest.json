@@ -1,0 +1,66 @@
+{
+  "id" : "https://laura-deluca.github.io/dhsi-2024-inclass/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in laura-deluca/dhsi-2024-inclass project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 1567,
+    "id" : "https://laura-deluca.github.io/dhsi-2024-inclass/images/Image1/canvas/",
+    "label" : {
+      "none" : [ "Image1" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://laura-deluca.github.io/dhsi-2024-inclass/images/Image1/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://laura-deluca.github.io/dhsi-2024-inclass/images/Image1/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 49,
+              "height" : 63
+            }, {
+              "width" : 98,
+              "height" : 125
+            }, {
+              "width" : 196,
+              "height" : 250
+            }, {
+              "width" : 392,
+              "height" : 500
+            }, {
+              "width" : 784,
+              "height" : 1000
+            }, {
+              "width" : 1567,
+              "height" : 2000
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1567,
+            "@id" : "https://laura-deluca.github.io/dhsi-2024-inclass/images/Image1",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 2000
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1567,
+          "id" : "https://laura-deluca.github.io/dhsi-2024-inclass/images/Image1/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 2000
+        },
+        "target" : "https://laura-deluca.github.io/dhsi-2024-inclass/images/Image1/canvas/"
+      } ]
+    } ],
+    "height" : 2000
+  } ]
+}
