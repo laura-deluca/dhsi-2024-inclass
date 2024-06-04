@@ -3,7 +3,19 @@
   "@id" : "https://laura-deluca.github.io/dhsi-2024-inclass/manifests/TheNature.manifest.json",
   "@type" : "sc:Manifest",
   "label" : "[Click to edit label]",
-  "metadata" : [ ],
+  "metadata" : [ {
+        "label": "Title",
+        "value": "The Nature and Effects of Superstition"
+    },
+    {
+        "label": "Author",
+        "value": "Thomas Manningham"
+    },
+    {
+        "label": "Description",
+        "value": "This is a text printed by Thomas Braddyll and Robert Everingham"
+    }
+  ],
   "description" : [ {
     "@value" : "[Click to edit description]",
     "@language" : "en"
