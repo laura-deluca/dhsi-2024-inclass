@@ -1,0 +1,13 @@
+{
+  "id" : "https://laura-deluca.github.io/dhsi-2024-inclass/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in laura-deluca/dhsi-2024-inclass project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://laura-deluca.github.io/dhsi-2024-inclass/manifests/TheNature.manifest.json",
+    "label" : "[Click to edit label]"
+  } ]
+}
