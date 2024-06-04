@@ -1,0 +1,75 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://laura-deluca.github.io/dhsi-2024-inclass/manifests/TheNature.manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "[Click to edit label]",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://78ebfdd4-0e8d-47da-ae01-8b3e0ea338a2",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://67181ec2-15b8-4300-85af-50dcad9b1b17",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 2000,
+      "width" : 1567,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c83bd82b-2707-452c-adca-259013148442",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://laura-deluca.github.io/dhsi-2024-inclass/images/Image1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://laura-deluca.github.io/dhsi-2024-inclass/images/Image1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2000,
+          "width" : 1567
+        },
+        "on" : "http://67181ec2-15b8-4300-85af-50dcad9b1b17"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://80e060ee-6c6b-48f6-b5b1-2900bb2a6e80",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 1984,
+      "width" : 1283,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://dc4993cc-587a-4a46-ad92-2493ff2d6d1e",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://laura-deluca.github.io/dhsi-2024-inclass/images/Image2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://laura-deluca.github.io/dhsi-2024-inclass/images/Image2",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1984,
+          "width" : 1283
+        },
+        "on" : "http://80e060ee-6c6b-48f6-b5b1-2900bb2a6e80"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
