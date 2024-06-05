@@ -2,7 +2,7 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://laura-deluca.github.io/dhsi-2024-inclass/manifests/TheNature.manifest.json",
   "@type" : "sc:Manifest",
-  "label" : "[Click to edit label]",
+  "label" : "The Nature and Effects of Superstition",
   "metadata" : [ {
         "label": "Title",
         "value": "The Nature and Effects of Superstition"
@@ -17,7 +17,7 @@
     }
   ],
   "description" : [ {
-    "@value" : "[Click to edit description]",
+    "@value" : "The Nature and Effects of Superstition by Thomas Manningham (1692)",
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
