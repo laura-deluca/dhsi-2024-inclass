@@ -21,7 +21,7 @@
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
-  "attribution" : "[Click to edit attribution]",
+  "attribution" : "Thomas Manningham",
   "sequences" : [ {
     "@id" : "http://78ebfdd4-0e8d-47da-ae01-8b3e0ea338a2",
     "@type" : "sc:Sequence",
