@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://laura-deluca.github.io/dhsi-2024-inclass/manifests/TheNature.manifest.json",
     "label" : "[Click to edit label]"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://laura-deluca.github.io/dhsi-2024-inclass/manifests/Hamlet.manifest.json",
+    "label" : "Hamlet by William Shakespeare"
   } ]
 }
